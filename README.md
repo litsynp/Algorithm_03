@@ -1,6 +1,6 @@
-# Algorithm_03
+# Algorithm_03 - MNIST Data Training Results
 
-## Model 1
+## MODEL 1 : 3 Layers with 1 Convolution layer
 ### Training Accuracy & Loss
 ![results1](https://user-images.githubusercontent.com/42485462/82722609-3b164780-9d03-11ea-843e-b191f829aaa9.jpg)
 
@@ -13,7 +13,7 @@
 ### Failure Images
 ![failure images](https://user-images.githubusercontent.com/42485462/82722624-61d47e00-9d03-11ea-87cc-9c9ebd573b3b.jpg)
 
-## Model 2
+## MODEL 2 : 5 Layers with 2 Convolution layer
 ### Training Accuracy & Loss
 ![results1](https://user-images.githubusercontent.com/42485462/82722631-70229a00-9d03-11ea-8f29-8e73a2b45a46.jpg)
 
@@ -26,7 +26,7 @@
 ### Failure Images
 ![failure images](https://user-images.githubusercontent.com/42485462/82722640-7a449880-9d03-11ea-9242-5bedd3d2d0c1.jpg)
 
-## Model 3
+## MODEL 3 : 7 Layers with 4 Convolution layer
 ### Training Accuracy & Loss
 ![results1](https://user-images.githubusercontent.com/42485462/82722644-86305a80-9d03-11ea-8c8c-555222cdbdef.jpg)
 
